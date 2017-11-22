@@ -6,31 +6,29 @@
     <meta name="description" content="web developer junior BeCode">
     <meta name="keywords" content="web developement BeCode">
     <link rel="stylesheet" type="text/css" href="styleinter.css" />
-    <style>
-
-    </style>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300|Work+Sans:300" rel="stylesheet">
   </head>
 
-  <body style="display: block; margin:auto; padding-top: 30px;">
+  <body>
 
-<header style="display: block; margin:auto; padding-bottom:30px; width: 60%;">
+<header>
 
-<nav style="text-align:center;">
-  <h2 style="text-align:center;">Projet: interview d'un webdeveloper</h1>
-  <h4 style="text-align:center;">A la découverte de l'univers web!</h2>
-  <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a>
-  <a href="/home/user/Bureau/Learning/interview-webdev/2makingof">Making Of</a>
-  <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise"><strong>Entreprise</strong></a>
-  <a href="/home/user/Bureau/Learning/interview-webdev/4interview">Interview</a>
+  <h2>Projet: interview d'un webdeveloper</h1>
+  <h4>A la découverte de l'univers web!</h2>
+<nav>
+  <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a> |
+  <a href="/home/user/Bureau/Learning/interview-webdev/2makingof">Making Of</a> |
+  <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise"><strong>Entreprise</strong></a> |
+  <a href="/home/user/Bureau/Learning/interview-webdev/4interview">Interview</a> |
   <a href="/home/user/Bureau/Learning/interview-webdev/5conclusion">Conclusion</a>
 </nav>
 </header>
 
-<section style="dispay:block; margin:auto; width: 60%;">
+<section>
 <!-- présentation de l'entreprise où travaille l'interviewé
 -->
-<h4>Jacqueline Rwanyindo</h4>
-<p style="text-align: justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h4>L'indépendance d'Alen</h4>
+<p>Alen est indépendant. Il travaille seul et la plupart du temps à son domicile.</p>
 
 </section>
 

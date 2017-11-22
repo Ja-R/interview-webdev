@@ -6,31 +6,73 @@
     <meta name="description" content="web developer junior BeCode">
     <meta name="keywords" content="web developement BeCode">
     <link rel="stylesheet" type="text/css" href="styleinter.css" />
-    <style>
-
-    </style>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300|Work+Sans:300" rel="stylesheet">
   </head>
 
-  <body style="display: block; margin:auto; padding-top: 30px;">
+  <body>
 
-<header style="display: block; margin:auto; padding-bottom:30px; width: 60%;">
+<header>
 
-<nav style="text-align:center;">
-  <h2 style="text-align:center;">Projet: interview d'un webdeveloper</h1>
-  <h4 style="text-align:center;">A la découverte de l'univers web!</h2>
-  <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a>
-  <a href="/home/user/Bureau/Learning/interview-webdev/2makingof">Making Of</a>
-  <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise">Entreprise</a>
-  <a href="/home/user/Bureau/Learning/interview-webdev/4interview"><strong>Interview</strong></a>
+  <h2>Projet: interview d'un webdeveloper</h1>
+  <h4>A la découverte de l'univers web!</h2>
+<nav>
+  <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a> |
+  <a href="/home/user/Bureau/Learning/interview-webdev/2makingof">Making Of</a> |
+  <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise">Entreprise</a> |
+  <a href="/home/user/Bureau/Learning/interview-webdev/4interview"><strong>Interview</strong></a> |
   <a href="/home/user/Bureau/Learning/interview-webdev/5conclusion">Conclusion</a>
 </nav>
 </header>
 
-<section style="dispay:block; margin:auto; width: 60%;">
+<section>
 <!-- (voir liste de questions)
 -->
-<h4>Jacqueline Rwanyindo</h4>
-<p style="text-align: justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h4>Entretien</h4>
+<p><a href="https://www.linkedin.com/in/hujduralen/">Alen Hujdur</a> est un web developer indépendant. Voici son histoire</p>
+<p>
+
+  Présentation
+
+      Peux-tu te présenter brièvement ?
+      Où travailles-tu ? (indépendant/PME/grosse boîte/service public...)
+      Quelle est ta fonction exacte au sein de l'entreprise ? Au sein de quel département de l'entreprise travailles-tu ?
+      Depuis quand exerces-tu ?
+      Peux-tu me décrire en quoi consiste ton métier ou ton poste ?
+      Quelles tâches annexes peux-tu être amené à accomplir ?
+
+  Pourquoi le webdevelopment ?
+
+      Qu’est-ce qui t'a donné envie de faire ce métier ?
+      Quel est ton parcours ? (études/autodidacte/...)
+      Comment es-tu parvenu à ton emploi actuel ?
+
+  Un bon webdeveloper...
+
+      Quelles sont les qualités personnelles nécessaires pour exercer ce métier selon toi ?
+      Quelles sont les compétences professionnelles exigées dans ce métier ?
+      Peux-tu préciser à quelles technologies tu fais appel au quotidien ?
+      Qu’est-ce qui te plaît le plus dans ton métier et pourquoi ?
+
+  Contraintes
+
+      Quelles sont les personnes avec qui tu es amené à entrer en relation ?
+      Y a-t-il des conditions de travail spécifiques ? Des contraintes physiques ?
+      Quels sont les problèmes auxquels tu peux être confronté ?
+
+  Le marché de l'emploi
+
+      Quelles sont les évolutions possibles selon toi ?
+      Quel est l'état du marché de l'emploi pour ce métier en général selon toi ? Dans ta zone géographique ?
+      Existe-t-il des difficultés de recrutement dans ton métier ?
+      As-tu déjà été démarché par un recruteur ?
+
+  Conseils...
+
+      Y a-t-il des personnes à qui tu déconseillerais de faire ce métier ?
+      Quels conseils me donnerais-tu ?
+
+
+</p>
 
 </section>
 
