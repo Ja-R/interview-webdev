@@ -11,21 +11,19 @@
 
   <body>
 
-    <nav>
-      <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a>
-      <a href="/home/user/Bureau/Learning/interview-webdev/2makingof">Making Of</a>
-      <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise">Entreprise</a>
-      <a href="/home/user/Bureau/Learning/interview-webdev/4interview"><strong>Interview</strong></a>
-      <a href="/home/user/Bureau/Learning/interview-webdev/5conclusion">Conclusion</a>
-    </nav>
-
 
 <header>
 
-<a href="/home/user/Bureau/Learning/interview-webdev/index" style="color:white";>
-  <h2>Projet: interview d'un webdeveloper</h1>
-  <h4>A la découverte de l'univers web!</h2>
-</a>
+  <a href="/home/user/Bureau/Learning/interview-webdev/index" style="color:white";> <h2>
+  A la découverte du secteur web !</h2> </a>
+
+  <nav>
+    <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a>
+    <a href="/home/user/Bureau/Learning/interview-webdev/2makingof">Making Of</a>
+    <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise">Entreprise</a>
+    <a href="/home/user/Bureau/Learning/interview-webdev/4interview"><strong>Interview</strong></a>
+    <a href="/home/user/Bureau/Learning/interview-webdev/5conclusion">Conclusion</a>
+  </nav>
 
 </header>
 

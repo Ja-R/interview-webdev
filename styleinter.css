@@ -3,8 +3,8 @@ body{
   margin:auto;
   font-family: 'Source Sans Pro', sans-serif;
   border: 2px solid black;
-  background-color: white /*#2D3E58;
-  background-image: url(/home/user/Bureau/Learning/interview-webdev/images/fd2.png);*/
+  background-color: white /*#2D3E58*/;
+  background-color: #2D2E36;
   color: black;
   letter-spacing: 1px;
   line-height: 150%;
@@ -31,7 +31,9 @@ header{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  background-image: url(/home/user/Bureau/Learning/interview-webdev/images/fd2.png);
+  background-image: url(/home/user/Bureau/Learning/interview-webdev/images/shattered-island.gif);
+
+  /*background-image: url(/home/user/Bureau/Learning/interview-webdev/images/fd2.png);
   /*background-color: #270722;
   background-blend-mode: hard-light;*/
   border: 1px solid green;
@@ -40,16 +42,18 @@ header{
 
 a:link, a:visited {
     text-decoration: none;
-    color: #7a87f8;
+    color: white;
 }
 
 a:hover {
     text-decoration: underline;
+    color: #7a87f8;
 }
 
 
 
-h2, h4{
+h2{
+  width: 400px;
   text-align: left;
   padding-left: 20px;
 }
