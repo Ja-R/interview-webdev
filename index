@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JR</title>
+    <meta charset="utf-8">
+    <meta name="description" content="web developer junior BeCode">
+    <meta name="keywords" content="web developement BeCode">
+    <link rel="stylesheet" type="text/css" href="styleinter.css" />
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+
+  </head>
+
+  <body>
+</br>
+
+<header>
+
+<h2>Projet: interview d'un webdeveloper</h1>
+<h4>A la découverte de l'univers web !</h2>
+
+</header>
+
+<nav class="home">
+  <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a>
+  <a href="/home/user/Bureau/Learning/interview-webdev/2makingof">Making Of</a>
+  <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise">Entreprise</>
+  <a href="/home/user/Bureau/Learning/interview-webdev/4interview">Interview</a>
+  <a href="/home/user/Bureau/Learning/interview-webdev/5conclusion">Conclusion</a>
+</nav>
+
+  </body>
+</html>
