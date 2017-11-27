@@ -14,8 +14,7 @@
 
 <header>
 
-  <a href="/home/user/Bureau/Learning/interview-webdev/index" style="color:white";> <h2>
-  A la découverte du secteur web !</h2> </a>
+  <h2 class="titre">Le statut d'indépendant</h2>
 
   <nav>
     <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a>
