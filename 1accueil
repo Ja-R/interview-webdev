@@ -17,11 +17,11 @@
 <h2 class="titre"> A la découverte du secteur web !</h2>
 
   <nav>
-    <a href="/home/user/Bureau/Learning/interview-webdev/1accueil"><strong>Accueil</strong></a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/2makingof">Making Of</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise">Entreprise</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/4interview">Interview</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/5conclusion">Conclusion</a>
+    <a href="1accueil"><strong>Accueil</strong></a>
+    <a href="2makingof">Making Of</a>
+    <a href="3entreprise">Entreprise</a>
+    <a href="4interview">Interview</a>
+    <a href="5conclusion">Conclusion</a>
   </nav>
 
 </header>
@@ -29,8 +29,15 @@
 <section>
 <!-- présentation rapide de toi-même. Qui es-tu ? Que fais-tu à BeCode ?
 -->
-<h4>Jacqueline Rwanyindo</h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+      <article class="illu" id="p-accueil">
+      </article>
+
+      <article class="blabla">
+      <h4>Jacqueline Rwa</h4>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+      </article>
 
 </section>
 

@@ -12,25 +12,27 @@
 
   <body>
 
-<header>
-
-  <h2 class="titre">"Rester curieux"</h2>
-
-  <nav>
-    <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/2makingof">Making Of</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise">Entreprise</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/4interview">Interview</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/5conclusion"><strong>Conclusion</strong></a>
-  </nav>
-
-</header>
+    <header>
+      <h2 class="titre">"Rester curieux"</h2>
+      <nav>
+        <a href="1accueil">Accueil</a>
+        <a href="2makingof">Making Of</a>
+        <a href="3entreprise">Entreprise</a>
+        <a href="4interview">Interview</a>
+        <a href="5conclusion"><strong>Conclusion</strong></a>
+      </nav>
+    </header>
 
 <section>
-<!-- analyse/impression personnelle. Est-ce que ce sont des réponses auxquelles tu t'attendais ? Est-ce que tu es surpris ? As-tu appris des choses ?
--->
+<!-- analyse/impression personnelle. Est-ce que ce sont des réponses auxquelles tu t'attendais ? Est-ce que tu es surpris ? As-tu appris des choses ? -->
+
+    <article class="illu" id="p-conclu">
+    </article>
+
+<article class="blabla">
 <h4>En deux mots:</h4>
 <p>Chouette rencontre.</p>
+</article>
 
 </section>
 

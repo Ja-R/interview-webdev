@@ -15,25 +15,27 @@
 <header>
   <h2 class="titre">Dans les coulisses...</h2>
   <nav>
-    <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/2makingof"><strong>Making Of</strong></a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise">Entreprise</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/4interview">Interview</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/5conclusion">Conclusion</a>
+    <a href="1accueil">Accueil</a>
+    <a href="2makingof"><strong>Making Of</strong></a>
+    <a href="3entreprise">Entreprise</a>
+    <a href="4interview">Interview</a>
+    <a href="5conclusion">Conclusion</a>
   </nav>
 </header>
 
 <section>
-<!-- comment tu as trouvé ton webdev  -->
+<!-- comment tu as trouvé ton webdev -->
 
-<img src="/home/user/Bureau/Learning/interview-webdev/images/autres/p1accueil.jpg" alt="MakingOf">
+        <article class="illu" id="p-makingof">
+        </article>
 
-<article class="Blabla">
-  <h4>Rencontre avec Alen Hujdur</h4>
-  <p>A l'occasion d'un workshop d'initiation au code organisé par <a href="http://railsgirls.com/brussels" target="_blank" rel="noopener noreferrer">Rails Girls Brussels</a>, j'ai rencontré Alen Hujdur. Pendant l'événement, l'ensemble des participantes est réparti en petite équipe et découvre la création web sous l'aile d'un coach. Alen était mon coach.</p>
-</article>
+        <article class="blabla">
+          <h4>Rencontre avec Alen Hujdur</h4>
+          <p>A l'occasion d'un workshop d'initiation au code organisé par <a href="http://railsgirls.com/brussels" target="_blank" rel="noopener noreferrer">Rails Girls Brussels</a>, j'ai rencontré Alen Hujdur. Pendant l'événement, l'ensemble des participantes est réparti en petite équipe et découvre la création web sous l'aile d'un coach. Alen était mon coach.</p>
+        </article>
 
 </section>
+
 
 
   </body>

@@ -17,18 +17,22 @@
   <h2 class="titre">Le monde web selon Alen</h2>
 
   <nav>
-    <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/2makingof">Making Of</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise">Entreprise</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/4interview"><strong>Interview</strong></a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/5conclusion">Conclusion</a>
+    <a href="1accueil">Accueil</a>
+    <a href="2makingof">Making Of</a>
+    <a href="3entreprise">Entreprise</a>
+    <a href="4interview"><strong>Interview</strong></a>
+    <a href="5conclusion">Conclusion</a>
   </nav>
 
 </header>
 
 <section>
-<!-- (voir liste de questions)
--->
+<!-- (voir liste de questions) -->
+
+    <article class="illu" id="p-interview">
+    </article>
+
+<article class="blabla">
 <h4>Entretien</h4>
 <p><a href="https://www.linkedin.com/in/hujduralen/">Alen Hujdur</a> est un web developer indépendant. Voici son histoire</p>
 <p>
@@ -72,9 +76,8 @@
 
       Y a-t-il des personnes à qui tu déconseillerais de faire ce métier ?
       Quels conseils me donnerais-tu ?
-
-
 </p>
+</article>
 
 </section>
 

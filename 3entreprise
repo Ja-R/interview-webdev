@@ -12,25 +12,28 @@
 
   <body>
 
-<header>
-
-  <h2 class="titre">Le statut d'indépendant</h2>
-
-  <nav>
-    <a href="/home/user/Bureau/Learning/interview-webdev/1accueil">Accueil</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/2makingof">Making Of</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/3entreprise"><strong>Entreprise</strong></a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/4interview">Interview</a>
-    <a href="/home/user/Bureau/Learning/interview-webdev/5conclusion">Conclusion</a>
-  </nav>
-
-</header>
+  <header>
+    <h2 class="titre">Le statut d'indépendant</h2>
+    <nav>
+      <a href="1accueil">Accueil</a>
+      <a href="2makingof">Making Of</a>
+      <a href="3entreprise"><strong>Entreprise</strong></a>
+      <a href="4interview">Interview</a>
+      <a href="5conclusion">Conclusion</a>
+    </nav>
+  </header>
 
 <section>
 <!-- présentation de l'entreprise où travaille l'interviewé
 -->
-<h4>L'indépendance d'Alen</h4>
-<p>Alen est indépendant. Il travaille seul et la plupart du temps à son domicile.</p>
+
+      <article class="illu" id="p-entreprise">
+      </article>
+
+      <article class="blabla">
+      <h4>L'indépendance d'Alen</h4>
+      <p>Alen est indépendant. Il travaille seul et la plupart du temps à son domicile.</p>
+      </article>
 
 </section>
 
