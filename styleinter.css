@@ -5,6 +5,7 @@ html, body{
 
 body{
   display: block;
+  justify-content: center;
   margin:auto;
   font-family: 'Source Sans Pro', sans-serif;
   border: 2px solid black;
@@ -123,6 +124,8 @@ article{
   padding: 10px 20px;
 }
 
+/*premiere page*/
+
 .choix-questions{
   margin-top: 100px;
   display: flex;
@@ -143,23 +146,24 @@ article{
   margin: auto;
 }
 
+
+/*à partir d'ici  la page de garde*/
+
 /*#quest1, #quest2, #quest3, #quest4, #quest5, #quest6, {
   width: 100%;
 }*/
 
-.rangee2{
-  border: 2px solid purple;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.rangee13{
-  border: 2px solid purple;
-  display: block;
-  width: 300px;
-  height: 200px;
-  justify-content: center;
+.allmenu{
+  width: 950px;
+  height: 650px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-areas:
+  '. haut .'
+  'm1 m2 m3'
+  '. bas .'
 }
 
 #haut, #m1, #m2, #m3, #bas{
@@ -169,21 +173,25 @@ article{
 
 #haut{
   background-image: url(images/autres/vignettes/v1.jpg);
-  border: 2px solid yellow;
+  grid-area: haut;
 }
 
 #m1{
   background-image: url(images/autres/vignettes/v2.jpg);
+  grid-area: m1;
 }
 
 #m2{
   background-image: url(images/autres/vignettes/v3.jpg);
+  grid-area: m2;
 }
 
 #m3{
   background-image: url(images/autres/vignettes/v4.jpg);
+  grid-area: m3;
 }
 
 #bas{
   background-image: url(images/autres/vignettes/v5.jpg);
+  grid-area: bas;
 }
