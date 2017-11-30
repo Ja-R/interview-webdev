@@ -82,11 +82,11 @@ p{
 
 h2{
   color: #7a87f8;
-  font-style: bold;
   margin: auto;
   margin-top: 140px;
   text-align: center;
   background-color: #EBEBEB;
+  padding: 10px;
 }
 
 #p-accueil{
@@ -167,27 +167,49 @@ article{
   height: 200px;
 }
 
+#haut:hover, #m1:hover, #m2:hover, #m3:hover, #bas:hover{
+  /*opacity: 0.5;*/
+}
+
 #haut{
   background-image: url(images/autres/vignettes/v1.jpg);
   grid-area: haut;
+  display: flex;
+  justify-content: center;
 }
 
 #m1{
   background-image: url(images/autres/vignettes/v2.jpg);
   grid-area: m1;
+  display: flex;
+  justify-content: center;
 }
 
 #m2{
   background-image: url(images/autres/vignettes/v3.jpg);
   grid-area: m2;
+  display: flex;
+  justify-content: center;
 }
 
 #m3{
   background-image: url(images/autres/vignettes/v4.jpg);
   grid-area: m3;
+  display: flex;
+  justify-content: center;
 }
 
 #bas{
   background-image: url(images/autres/vignettes/v5.jpg);
   grid-area: bas;
+  display: flex;
+  justify-content: center;
+}
+
+h3{
+  text-align: center;
+  background-color: #EBEBEB;
+  margin-top: 70px;
+  padding: 5px;
+  width: 150px;
 }
