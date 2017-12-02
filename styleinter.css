@@ -4,9 +4,9 @@ html, body{
 }
 
 body{
-  display: block;
-  justify-content: center;
-  margin:auto;
+  /*display: block;
+  justify-content: center;*/
+  margin: auto;
   font-family: 'Source Sans Pro', sans-serif;
   border: 2px solid black;
   background-color: white;
@@ -32,7 +32,7 @@ header{
   float: left;
 }
 
-h1{
+h1{ /*gros titre*/
   font-size: 26px;
   width: 420px;
   text-align: left;
@@ -55,7 +55,7 @@ a:link, a:visited {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color: teal;
 }
 
@@ -72,7 +72,9 @@ section{
 
 p{
   text-align: justify;
+  margin: 0px;
 }
+
 
 .illu{
   border: 1px solid purple;
@@ -80,7 +82,7 @@ p{
   height: 400px;
 }
 
-h2{
+h2{ /*titre boite illus*/
   color: #7a87f8;
   margin: auto;
   margin-top: 140px;
@@ -124,7 +126,7 @@ article{
   padding: 10px 20px;
 }
 
-/*premiere page*/
+/*inter*/
 
 .choix-questions{
   margin-top: 100px;
@@ -140,12 +142,16 @@ article{
   justify-content: space-between;
   border: 1px solid teal;
   width: 50%;
-  height: 200px;
+  height: 350px;
   overflow: hidden;
   padding-top: 0px;
   margin: auto;
 }
 
+h4{ /*questions boite illu interv */
+  text-align: center;
+  margin: 0px;
+}
 
 /*à partir d'ici  la page de garde*/
 
@@ -165,10 +171,6 @@ article{
 #haut, #m1, #m2, #m3, #bas{
   width: 300px;
   height: 200px;
-}
-
-#haut:hover, #m1:hover, #m2:hover, #m3:hover, #bas:hover{
-  /*opacity: 0.5;*/
 }
 
 #haut{
@@ -206,10 +208,25 @@ article{
   justify-content: center;
 }
 
-h3{
+h3{ /*titre vignette*/
   text-align: center;
   background-color: #EBEBEB;
   margin-top: 70px;
   padding: 5px;
   width: 150px;
+}
+
+/*le pied*/
+
+footer{
+  width: 50%;
+  margin: auto;
+  border-top: 2px solid #EBEBEB;
+  margin-top: 50px;
+  padding: 5px;
+}
+
+nav{
+  display: flex;
+  justify-content: center;
 }
