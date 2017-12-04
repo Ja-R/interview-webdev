@@ -176,40 +176,40 @@ h4{ /*questions boite illu interv */
   '. bas .'
 }
 
-#haut, #m1, #m2, #m3, #bas{
+#v1, #v2, #v3, #v4, #v5{
   width: 300px;
   height: 200px;
 }
 
-#haut{
+#v1{
   background-image: url(images/autres/vignettes/v1.jpg);
   grid-area: haut;
   display: flex;
   justify-content: center;
 }
 
-#m1{
+#v2{
   background-image: url(images/autres/vignettes/v2.jpg);
   grid-area: m1;
   display: flex;
   justify-content: center;
 }
 
-#m2{
+#v3{
   background-image: url(images/autres/vignettes/v3.jpg);
   grid-area: m2;
   display: flex;
   justify-content: center;
 }
 
-#m3{
+#v4{
   background-image: url(images/autres/vignettes/v4.jpg);
   grid-area: m3;
   display: flex;
   justify-content: center;
 }
 
-#bas{
+#v5{
   background-image: url(images/autres/vignettes/v5.jpg);
   grid-area: bas;
   display: flex;
